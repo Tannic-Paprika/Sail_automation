@@ -1,2 +1,1 @@
-# Sail_automation
-Industrial automation of RSP
+# SAIL_AUTOMATION
